@@ -1,0 +1,20 @@
+num = input('숫자를 입력하세요: ' )
+a = 0
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
+a += 1
+print(int(num) * a)
