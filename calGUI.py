@@ -9,6 +9,7 @@ calc.geometry("300x300")
 #    print(result)
 #    display.delete(0,END)
 #    display.insert(0,result)
+# 깃허브 연습용 라인
 
 def button_pressed(value):
     display.insert(END,value)
